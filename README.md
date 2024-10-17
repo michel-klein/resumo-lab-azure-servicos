@@ -8,3 +8,7 @@ Foram apresentadas as faixas de SLA disponibilizadas pela Azure. Quanto maior o 
 
 ## Instância de Banco de Dados
 As imagens da máquina virtual foram apresentadas, com os seus diversos sistemas operacionais. Também foram explicados os tipos de tamanho da instância e aspectos de rede. A criação de um banco de dados SQL também foi introduzida, com a seleção de um servidor e uma forma de autenticação, além das diversas formas de redundância de backup.
+
+## Arquiteturas Azure
+Existe um mapa das diversas regiões disponibilizadas pela Azure, com um tour dentro de alguns datacenters.
+Antes de criar qualquer recurso, é necessário criar um grupo de recursos, que estará debaixo de uma assinatura e será uma coleção de recursos com o mesmo ciclo de vida, permissões e políticas. Dentro do grupo de recursos, há log de atividades, controles de acesso, visualizador de recursos, eventos(automatizações), bloqueios, gerenciamento de custos. A criação de uma rede virtual (vnet) deve ser criada dentro de um grupo de recursos e aparecerá no log de atividade, nas implantações e no visualizador de recursos.
