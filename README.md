@@ -21,3 +21,6 @@ Conta de armazenamento: blob, files (compartilhamento), filas, tabelas. Nome ún
 
 ## Segurança e Identidade
 Microsoft Entra ID realiza o gerenciamento de usuários. Sincronização apenas apenas unidirecional on premises para cloud. Usuários permanentemente deletado após 30 dias. Self service password reset. Diferentes licenciamentos, free não tem muitas opções de roles. Custom domain names para email de usuários. Microsoft Defender for cloud (multicloud): recomendações de segurança, Devops Security (github).
+
+## Custos
+TCO (Custo Total de Propriedade): Comparação de custos entre on premises e cloud. Calculadora de preço. Tags (marcas) para gerenciamento, não herdável do grupo de recursos para os recursos, deve ser utilizado policy.
