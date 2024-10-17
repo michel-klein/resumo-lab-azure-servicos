@@ -18,3 +18,6 @@ Na criação de máquinas virtuais, há opções de seleção de região, nívei
 
 ## Armazenamento
 Conta de armazenamento: blob, files (compartilhamento), filas, tabelas. Nome único. Desempenho standard/premium. Redundância (LRS, GRS, ZRS, GZRS). Possibilidade de exclusão temporária de arquivos. Compartilhamento de arquivos. Conexão para compartilhamento de arquivos está disponível para Windows, Linux e MacOS. Migrações para o Azure. Azure Data Box: migração física. AzCopy: transferência unilateral de arquivos por linha de comando. Gerenciador de armazenamento: sincronização de arquivos com a nuvem (interface visual).
+
+## Segurança e Identidade
+Microsoft Entra ID realiza o gerenciamento de usuários. Sincronização apenas apenas unidirecional on premises para cloud. Usuários permanentemente deletado após 30 dias. Self service password reset. Diferentes licenciamentos, free não tem muitas opções de roles. Custom domain names para email de usuários. Microsoft Defender for cloud (multicloud): recomendações de segurança, Devops Security (github).
