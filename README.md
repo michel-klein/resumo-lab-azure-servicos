@@ -24,3 +24,6 @@ Microsoft Entra ID realiza o gerenciamento de usuários. Sincronização apenas 
 
 ## Custos
 TCO (Custo Total de Propriedade): Comparação de custos entre on premises e cloud. Calculadora de preço. Tags (marcas) para gerenciamento, não herdável do grupo de recursos para os recursos, deve ser utilizado policy.
+
+## Políticas de Acesso
+Auditorias e certificações realizadas pela Azure. Bloqueio a nível de resource group e resource: excluir e somente leitura. Ao mover um recurso de um grupo para outro, os bloqueios não acompanham. Microsoft Purview: suíte de aplicações do microsoft 365 com ferramentas de compliance. Policy: nível assinatura, management group, resource group. Policy enforcement.
