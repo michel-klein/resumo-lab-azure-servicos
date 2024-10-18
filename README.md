@@ -30,3 +30,6 @@ Auditorias e certificações realizadas pela Azure. Bloqueio a nível de resourc
 
 ## Implantação
 Formas de criação de recursos: Portal Azure, PowerShell/Bash (necessário storage account). Bicep: linguagem de implantação da Azure. Arc: gerenciamento multicloud.
+
+# Monitoramento
+Azure Monitor: monitoramento dos recursos. Service Health: indisponibilidade de serviços. Advisor: recomendações de custo, segurança, confiabilidade, excelência operacional, performance.
