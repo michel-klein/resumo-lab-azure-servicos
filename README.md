@@ -27,3 +27,6 @@ TCO (Custo Total de Propriedade): Comparação de custos entre on premises e clo
 
 ## Políticas de Acesso
 Auditorias e certificações realizadas pela Azure. Bloqueio a nível de resource group e resource: excluir e somente leitura. Ao mover um recurso de um grupo para outro, os bloqueios não acompanham. Microsoft Purview: suíte de aplicações do microsoft 365 com ferramentas de compliance. Policy: nível assinatura, management group, resource group. Policy enforcement.
+
+## Implantação
+Formas de criação de recursos: Portal Azure, PowerShell/Bash (necessário storage account). Bicep: linguagem de implantação da Azure. Arc: gerenciamento multicloud.
